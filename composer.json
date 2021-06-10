@@ -1,0 +1,12 @@
+{
+    "name": "yfso/tools",
+    "require": {
+        "firebase/php-jwt": "^5.3"
+    },
+    "authors": [
+        {
+            "name": "yfso",
+            "email": "yfso@foxmail.com"
+        }
+    ]
+}
